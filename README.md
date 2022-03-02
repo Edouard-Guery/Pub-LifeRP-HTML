@@ -1,2 +1,1 @@
-# Pub-LifeRP-HTML
-Pub LifeRP HTML
+Pub for LifeRoleplay
